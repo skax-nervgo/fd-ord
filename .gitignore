@@ -3,4 +3,4 @@ out/*
 !out/.gitkeep
 
 # sl-registry.json — 로컬 preview (RG-02). CI publish 가 정본.
-sl-registry.json
+/sl-registry.json
